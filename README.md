@@ -1,4 +1,4 @@
-# Business Analysts
+# Business Analyst
 
 ### Education
 Masters in International Business and Analytics
